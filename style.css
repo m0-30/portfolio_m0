@@ -192,3 +192,8 @@ footer{
     flex-shrink: 0;
     display: block;
 }
+.profile-sub{
+    font-size: 0.9rem;
+    color:#666;
+    margin-left: 1em;
+}
