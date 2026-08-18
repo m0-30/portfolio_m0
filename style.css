@@ -197,3 +197,8 @@ footer{
     color:#666;
     margin-left: 1em;
 }
+
+.flower{
+    max-width: 100%;
+    height: auto;
+}
