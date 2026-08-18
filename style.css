@@ -199,7 +199,9 @@ footer{
 }
 
 .project-link.flower{
+    display: block;
     width: 100%;
     max-width: 100%;
     height: auto;
+    margin-top: 13px;
 }
